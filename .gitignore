@@ -1,0 +1,20 @@
+# Python cache
+data/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+src/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model weights / arrays
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+*.log
+*.json
+*.sh

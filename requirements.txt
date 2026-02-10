@@ -1,0 +1,14 @@
+torch==2.7.1
+torchvision==0.22.1
+timm==1.0.19
+open-clip-torch==3.1.0
+transformers==4.53.2
+diffusers==0.34.0
+huggingface-hub==0.33.4
+numpy==1.26.4
+pandas==2.3.1
+scipy==1.10.1
+scikit-learn==1.1.2
+opencv-python==4.11.0.86
+tqdm==4.67.1
+kornia==0.6.3
